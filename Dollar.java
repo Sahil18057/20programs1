@@ -28,7 +28,7 @@ public class Dollar {
 // Output
 
 
-C:\Users\User1\Desktop\java programs>java Dollar
+
 Enter the number of rows: 5
 $
 $$
